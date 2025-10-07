@@ -23,6 +23,17 @@ Cross-Platform Support: One codebase, two platforms—Emporium runs perfectly on
 * A smooth mobile shopping experience 📱
 * A powerful backend for managing products, orders & users 🔧
 
+## 📸 Some sample screenshots Screenshots
+
+### 🏠 Home Screen
+![Home Screen](./assets/screenshots/home.png)
+
+### 🛒 Product Details
+![Product Details](./assets/screenshots/product.png)
+
+### 🧾 Checkout Page
+![Checkout Page](./assets/screenshots/checkout.png)
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 
