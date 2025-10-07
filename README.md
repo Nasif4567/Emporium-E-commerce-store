@@ -26,13 +26,8 @@ Cross-Platform Support: One codebase, two platforms—Emporium runs perfectly on
 ## 📸 Some sample screenshots Screenshots
 
 ### 🏠 Home Screen
-![Home Screen](./assets/screenshots/home.png)
+![Home Screen](./assets/screenshots/home.jpg)
 
-### 🛒 Product Details
-![Product Details](./assets/screenshots/product.png)
-
-### 🧾 Checkout Page
-![Checkout Page](./assets/screenshots/checkout.png)
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
