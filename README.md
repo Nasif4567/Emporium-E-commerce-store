@@ -1,5 +1,3 @@
-## 📋 Table of Contents
-
 ## <a name="introduction">🤖 Introduction</a>
 
 
